@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__title {
+    width: 100%;
+
+}
+
+main {
+    min-height: 300px;
+}
+
+
+input,
+label,
+button,
+select,
+textarea,
+span {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+}

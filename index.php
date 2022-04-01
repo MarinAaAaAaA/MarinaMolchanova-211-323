@@ -13,7 +13,7 @@
         <div class="header__title">
             <h1>Cамостоятельная работа</h1>
         </div>
-        <span>Молчанова Марина 211-323</span>
+        <h2>Молчанова Марина 211-323</h2>
     </header>
     <main>
         <form method="post" action="https://httpbin.org/post">
